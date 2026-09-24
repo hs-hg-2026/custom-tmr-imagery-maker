@@ -1,0 +1,18 @@
+{
+  "name": "custom-tmr-imagery-maker",
+  "version": "0.1.7",
+  "description": "悪夢の困る展開を聞き、望ましい場面の文章化と画像づくりを補助する授業用試作。",
+  "author": {
+    "name": "TMR授業プロジェクト"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "TMRイメージメーカー（試作）",
+    "shortDescription": "悪夢の展開を一問ずつ聞き、望ましい場面の文章と画像づくりを補助します。",
+    "longDescription": "練習に使う場面の文章化を支援し、利用可能な場合は画像化も補助する授業用試作です。治療効果の検証、音との学習、睡眠検知、装置制御は含みません。",
+    "developerName": "TMR授業プロジェクト",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "架空の悪夢で何が起き、何が嫌かを一問ずつ具体的に考えたいです。"
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "TMRイメージメーカー（試作）"
+  short_description: "悪夢の展開を一問ずつ聞き、練習用の文章と画像づくりを補助する試作"
+  default_prompt: "$custom-tmr-imagery-maker で、架空の悪夢で何が起き、何が嫌かを一問ずつ具体的に考えたいです。"

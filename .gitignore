@@ -1,0 +1,16 @@
+# Local and personal working material is not part of the public package.
+/private/
+/work/
+/dist/
+*.zip
+*.pptx
+*.docx
+*.pdf
+
+# Local tooling and secrets.
+.env
+.env.*
+*.log
+__pycache__/
+.DS_Store
+Thumbs.db
